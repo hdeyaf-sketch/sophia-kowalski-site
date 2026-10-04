@@ -1,0 +1,296 @@
+{
+  "$schema": "../../schema/athlete.schema.json",
+  "slug": "sophia-kowalski",
+  "name": {
+    "first": "Sophia",
+    "last": "Kowalski",
+    "full": "Sophia Kowalski",
+    "preferred": "Sophia"
+  },
+  "tagline": "From Grand Oaks to Texas' all-time list.",
+  "headline": "Texas Track & Field · Pole Vault",
+  "eventGroup": "jumps",
+  "events": [
+    "Pole vault"
+  ],
+  "hometown": "Spring, Texas",
+  "school": {
+    "name": "The University of Texas at Austin",
+    "major": "Nutrition",
+    "classYear": "Senior",
+    "gradDate": "Expected May 2027"
+  },
+  "contact": {
+    "email": "sak4237@my.utexas.edu",
+    "instagram": "https://www.instagram.com/imsophiakowalski"
+  },
+  "bio": {
+    "short": "Sophia Kowalski is a senior pole vaulter for Texas Track & Field whose 4.17m clearance in 2025 ranked No. 6 on the Longhorns' all-time list. A two-time USTFCCCA All-Academic honoree studying Nutrition, she was a 2026 Project Manager Intern at Feniex Industries.",
+    "long": [
+      "Sophia Kowalski has vaulted for the University of Texas since 2023 and is a senior in 2026-27. As a freshman she cleared 4.15m (13-7.25) for second at the Texas Invitational, moving onto the Longhorns' all-time performer list, and reached the NCAA West First Round. In February 2025 she cleared a career-best 4.17m (13-8.25) at the New Mexico Collegiate Classic to move to No. 6 all-time. She has competed at two SEC Indoor Championships, won the 2025 Dr. MLK Jr. Invitational and finished runner-up at the 2026 Leonard Hilton Memorial and UTSA Invitational.",
+      "She is from Spring, Texas, north of Houston, and left Grand Oaks High School as its pole vault record holder after placing fourth at the 2023 UIL State Championships with a clearance of 13-0. She also competed for MAC Vault Academy, a specialist pole vault club, and was a member of the National Honor Society. At Texas she majors in Nutrition and was named to both the USTFCCCA All-Academic Team and the SEC Academic Honor Roll in 2025 and 2026. She credits her father with her success in the sport.",
+      "In 2026 she joined Feniex Industries, the Austin manufacturer of emergency-vehicle lighting and sirens, as a Project Manager Intern. Pole vault is a technical event run on preparation: steps, grip, pole and bar height all have to line up before a single attempt, and there are only three tries at each height. That habit of checking every detail, adjusting between attempts and staying calm when the margin is small carries straight into coordinating schedules, documentation and handoffs between teams."
+    ]
+  },
+  "stats": [
+    {
+      "label": "Pole vault personal best",
+      "value": "4.17m",
+      "note": "New Mexico Collegiate Classic, 2025"
+    },
+    {
+      "label": "Texas all-time performer list",
+      "value": "No. 6",
+      "note": "After her 4.17m clearance, 2025"
+    },
+    {
+      "label": "USTFCCCA All-Academic Team",
+      "value": "2x",
+      "note": "2025 and 2026"
+    },
+    {
+      "label": "Seasons as a Longhorn",
+      "value": "4",
+      "note": "2023-24 through 2026-27"
+    }
+  ],
+  "prs": [
+    {
+      "event": "Pole vault",
+      "mark": "4.17m (13-8.25)",
+      "meet": "New Mexico Collegiate Classic",
+      "year": "2025",
+      "indoor": true
+    },
+    {
+      "event": "Pole vault",
+      "mark": "4.15m (13-7.25)",
+      "meet": "Texas Invitational",
+      "year": "2024",
+      "indoor": false
+    },
+    {
+      "event": "Pole vault (high school)",
+      "mark": "13-0 (3.96m)",
+      "meet": "UIL State Championships",
+      "year": "2023",
+      "indoor": false
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2023",
+      "title": "Fourth at UIL State",
+      "detail": "Cleared a personal-best 13-0 for fourth at the UIL State Championships and finished at Grand Oaks as the school's pole vault record holder."
+    },
+    {
+      "year": "2024",
+      "title": "All-time list as a freshman",
+      "detail": "Cleared 4.15m for second at the Texas Invitational, joining Texas' all-time performer list, then competed at the NCAA West First Round."
+    },
+    {
+      "year": "2025",
+      "title": "No. 6 all-time",
+      "detail": "Cleared 4.17m at the New Mexico Collegiate Classic in Texas' first SEC season, moving to No. 6 on the program's all-time list."
+    },
+    {
+      "year": "2026",
+      "title": "SEC regular, academic repeat",
+      "detail": "Placed 11th at the SEC Indoor Championships and repeated as a USTFCCCA All-Academic and SEC Academic Honor Roll pick."
+    },
+    {
+      "year": "2026",
+      "title": "Project Manager Intern, Feniex Industries",
+      "detail": "Joined the project team at the Austin manufacturer of emergency-vehicle lighting and electronics."
+    }
+  ],
+  "honors": [
+    {
+      "title": "USTFCCCA All-Academic Team",
+      "year": "2026"
+    },
+    {
+      "title": "SEC Academic Honor Roll (Spring)",
+      "year": "2026"
+    },
+    {
+      "title": "USTFCCCA All-Academic Team",
+      "year": "2025"
+    },
+    {
+      "title": "SEC Academic Honor Roll (Spring)",
+      "year": "2025"
+    },
+    {
+      "title": "No. 6 on the Texas all-time performer list, pole vault",
+      "year": "2025"
+    },
+    {
+      "title": "Grand Oaks High School pole vault record holder"
+    }
+  ],
+  "inTheirWords": [],
+  "press": [
+    {
+      "title": "Track & Field caps UTSA Invitational with strong final-day performances",
+      "outlet": "Texas Athletics",
+      "date": "2026-03-21",
+      "url": "https://texaslonghorns.com/news/2026/3/21/track-field-cross-country-track-field-caps-utsa-invitational-with-strong-final-day-performances"
+    },
+    {
+      "title": "Sophia Kowalski - 1st Place Girl's Pole Vault (Generation Park T&F Invitational)",
+      "outlet": "MileSplit Texas",
+      "date": "2023-03-09",
+      "url": "https://tx.milesplit.com/videos/622923/sophia-kowalski-1st-place-girls-pole-vault"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Precision",
+      "detail": "Pole vault demands exact preparation, from step count to grip to pole choice, and she has specialized in it through four college seasons."
+    },
+    {
+      "title": "Composure",
+      "detail": "With three attempts at each height, she has cleared 4.00m or higher at the SEC Indoor Championships, the Texas Relays and the Michael Johnson Invitational."
+    },
+    {
+      "title": "Consistency",
+      "detail": "She has placed in the top six at Texas' home meets in each of the 2024, 2025 and 2026 seasons."
+    },
+    {
+      "title": "Scholar-Athlete",
+      "detail": "She earned USTFCCCA All-Academic and SEC Academic Honor Roll recognition in both 2025 and 2026 while majoring in Nutrition."
+    }
+  ],
+  "resume": {
+    "summary": "Senior pole vaulter for Texas Track & Field (No. 6 on the program's all-time list in 2025) and two-time USTFCCCA All-Academic honoree studying Nutrition. Project Manager Intern at Feniex Industries supporting process documentation, schedules and cross-team coordination with AI-assisted workflows.",
+    "experience": [
+      {
+        "role": "Project Manager Intern",
+        "org": "Feniex Industries",
+        "location": "Austin, TX",
+        "dates": "2026",
+        "bullets": [
+          "Wrote and updated process documentation and checklists so recurring work follows consistent, repeatable steps.",
+          "Supported cross-functional projects linking engineering, production and sales teams at an Austin manufacturer of emergency-vehicle lighting, sirens and controllers.",
+          "Maintained project schedules and status notes, following up with owners on open items and handoffs.",
+          "Applied Claude and other AI tools to draft documentation, organize research and prepare status updates."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "The University of Texas at Austin",
+        "degree": "Bachelor of Science, Nutrition",
+        "dates": "2023–Expected May 2027",
+        "details": [
+          "USTFCCCA All-Academic Team (2025, 2026)",
+          "SEC Academic Honor Roll (Spring 2025, Spring 2026)"
+        ]
+      },
+      {
+        "school": "Grand Oaks High School, Spring, TX",
+        "degree": "High School Diploma",
+        "dates": "2023",
+        "details": [
+          "National Honor Society",
+          "School record holder, pole vault"
+        ]
+      }
+    ],
+    "athletics": [
+      {
+        "role": "Pole Vaulter",
+        "org": "University of Texas Track & Field (Big 12, then SEC)",
+        "dates": "2023–Present",
+        "bullets": [
+          "Cleared a career-best 4.17m (13-8.25) at the 2025 New Mexico Collegiate Classic, No. 6 on the Texas all-time performer list at the time.",
+          "Competed at the 2025 and 2026 SEC Indoor Championships (14th, 11th) and the 2024 NCAA West First Round.",
+          "Won the 2025 Dr. MLK Jr. Invitational; runner-up at the 2026 Leonard Hilton Memorial and UTSA Invitational."
+        ]
+      },
+      {
+        "role": "Pole Vaulter",
+        "org": "Grand Oaks High School, Spring, TX",
+        "dates": "Class of 2023",
+        "bullets": [
+          "Placed 4th at the 2023 UIL State Championships with a 13-0 clearance; runner-up at the area and regional meets.",
+          "School pole vault record holder; also competed for MAC Vault Academy, a specialist pole vault club."
+        ]
+      }
+    ],
+    "leadership": [],
+    "skills": {
+      "core": [
+        "Project Coordination",
+        "Scheduling & Status Tracking",
+        "Process Documentation",
+        "Stakeholder Communication",
+        "Checklist & SOP Writing",
+        "Scientific Research Literacy",
+        "Nutrition Science"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "Microsoft Word & PowerPoint",
+        "Google Workspace",
+        "Claude and other AI tools"
+      ],
+      "languages": []
+    },
+    "honors": [
+      {
+        "title": "USTFCCCA All-Academic Team",
+        "year": "2025, 2026"
+      },
+      {
+        "title": "SEC Academic Honor Roll",
+        "year": "2025, 2026"
+      },
+      {
+        "title": "No. 6, Texas All-Time Performer List, Pole Vault",
+        "year": "2025"
+      }
+    ]
+  },
+  "hamzaQuote": {
+    "text": "Sophia has vaulted for Texas since 2023, and pole vault leaves no room for shortcuts. She brought that same preparation to Feniex: every detail checked, calm under pressure, and ready before the bar goes up.",
+    "attribution": "Hamza Deyaf, Founder & CEO, Feniex Industries"
+  },
+  "images": {
+    "hero": "pro.jpg",
+    "resumeCrop": {
+      "x": 0.5,
+      "y": 0.441,
+      "zoom": 1.17
+    },
+    "portrait": "athlete.jpg",
+    "action": [
+      "action-1.jpg",
+      "action-2.jpg",
+      "action-3.jpg"
+    ],
+    "actionAlt": [
+      "Sophia Kowalski clears the bar in the pole vault for Texas",
+      "Sophia Kowalski on the runway at an indoor meet for Texas",
+      "Sophia Kowalski wearing a medal and her Grand Oaks letter jacket at a high school meet"
+    ],
+    "feature": "action-3.jpg",
+    "featureFocus": {
+      "x": 0.74,
+      "y": 0.4
+    }
+  },
+  "photoCredits": [
+    "Courtesy of Sophia Kowalski",
+    "Portraits: AI-assisted edits of official Texas Athletics headshots"
+  ],
+  "site": {
+    "url": "https://sophia-kowalski.vercel.app"
+  },
+  "seo": {
+    "title": "Sophia Kowalski | Texas Track & Field · Project Management",
+    "description": "Sophia Kowalski: Texas pole vaulter (4.17m best), two-time USTFCCCA All-Academic Nutrition major and 2026 Project Manager Intern at Feniex."
+  },
+  "noindex": true
+}
